@@ -69,7 +69,7 @@ Dashboard 3: Clinical Insights
 
 Clone The Repository
 
-git clone https://github.com/Selvapriya033/Heart-Disease-Prediction.git
+git clone https://github.com/kiruthika1103/Heart-Disease-Prediction.git
 
 Install dependencies
 
